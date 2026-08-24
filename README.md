@@ -4,10 +4,10 @@ Soy un desarrollador y estudiante de Analista en Computación apasionado por la 
 
 ### 👨‍💻 Sobre mí
 - 🎓 Estudiante de Analista en Computación en la **UNRC**.
-- 🚀 Co-fundador y desarrollador en **ALEM Studio**, enfocado en la creación de soluciones web y aplicaciones digitales.
-- 🐧 Entusiasta del open source, trabajando en el día a día desde mi entorno principal en Ubuntu.
+- 🚀 Impulsando **ALEM Studio**, una startup/proyecto independiente que ideamos para explorar el mercado, aprender la dinámica del negocio del software y llevar a la práctica el desarrollo de soluciones web.
 - 💡 Actualmente cursando **Ingeniería de Software I** y **Bases de Datos**, profundizando en modelado UML, metodologías ágiles y diseño relacional de datos.
-- 🕹️ En mis proyectos personales me gusta experimentar con el desarrollo de prototipos interactivos en Godot y crear nuevas herramientas web.
+- 🐧 Entusiasta del open source, trabajando en el día a día desde mi entorno principal en Ubuntu.
+- 🕹️ En mi tiempo libre y proyectos personales, me dedico al desarrollo de videojuegos (experimentando con Godot) y a la creación de nuevas herramientas web.
 
 ### 🛠️ Mi Stack y Herramientas
 

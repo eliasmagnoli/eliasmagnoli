@@ -7,7 +7,7 @@ Soy un desarrollador y estudiante de Analista en Computación apasionado por la 
 - 🚀 Co-fundador y desarrollador en **ALEM Studio**, donde creamos soluciones web y aplicaciones desde cero.
 - 🐧 Entusiasta del open source, codeando en el día a día desde mi entorno principal en Ubuntu.
 - 💡 Actualmente profundizando en Ingeniería de Software, metodologías ágiles y modelado de sistemas.
-- 🕹️ Cuando no estoy programando para el trabajo o la facultad, probablemente esté experimentando con motores como Godot, entrenando en el gimnasio o probando algún modpack nuevo en Minecraft.
+- 🕹️ Cuando no estoy programando para el trabajo o la facultad, probablemente esté experimentando en el desarrollo de juegos con motores como Godot, o entrenando en el gimnasio.
 
 ### 🛠️ Mi Stack y Herramientas
 

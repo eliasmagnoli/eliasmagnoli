@@ -4,7 +4,6 @@ Soy un desarrollador y estudiante de Analista en Computación apasionado por la 
 
 ### 👨‍💻 Sobre mí
 - 🎓 Estudiante de Analista en Computación en la **UNRC**.
-- 🚀 Impulsando **GALA Studio**, una startup/proyecto independiente que idee para explorar el mercado, aprender la dinámica del negocio del software y llevar a la práctica el desarrollo de soluciones web.
 - 💡 Actualmente cursando **Ingeniería de Software I** y **Bases de Datos**, profundizando en modelado UML, metodologías ágiles y diseño relacional de datos.
 - 🐧 Entusiasta del open source, trabajando en el día a día desde mi entorno principal en Ubuntu.
 - 🕹️ En mi tiempo libre y proyectos personales, me dedico al desarrollo de videojuegos (experimentando con Godot) y a la creación de nuevas herramientas web.
